@@ -98,10 +98,70 @@
 25. PureComponent 有何区别
 26. React 事件 和 DOM 事件的区别
 27. React 和 Vue 区别
+28. Hooks 解决了什么问题
+29. React16 生命周期为什么这么调整
 
 ## Vue
 
+1. computed 与 watch 的区别
+2. watch 如何进行深度监听
+3. watch 是否能够拿到 oldValue
+4. class 和 style 的使用方法
+5. v-if 与 v-show 的使用方法以及区别以使用场景
+6. 事件用法、常用的事件修饰符、Vue 中事件是被绑定到哪里和 react 中的区别
+7. 关于循环列表渲染
+8. 表单双向绑定、常用表单、修饰符
+9. props 与 \$emit 用法
+10. 组件间的通讯
+11. 组件的生命周期
+12. created 与 mounted 的区别
+13. beforeDestroy 中经常采取一些什么操作
+14. 自定义 v-model 的使用
+15. Vue 为何是异步渲染，\$nextTick 何用？
+16. ref 的使用
+17. slot 的使用
+18. 动态组件与异步组件的使用
+19. 何时需要使用 keep-alive
+20. mixin 的使用
+21. 如何理解 MVVM
+22. 请描述响应式原理
+23. vdom 与 diff
+24. 为何在 v-for 中要使用 key
+25. 渲染过程 - 组件渲染和更新的过程
+26. 通用前端路由
+27. 描述组件渲染和更新过程
+28. 双向数据绑定 v-model 的实现原理
+29. computed 有何特点
+30. 为何组件 data 必须是一个函数
+31. ajax 请求应该放在哪个生命周期
+32. 如何自己实现 v-model
+33. 多个组件有相同的逻辑，如何抽离？
+34. 何时使用异步组件
+35. Vue 常见性能优化
+36. 何时需要使用 beforeDestroy
+37. 什么是作用域插槽
+38. Vuex 中 action 和 mutation 有何区别
+39. Vue-router 常用的路由模式
+40. 如何配置 Vue-router 异步加载
+41. 用 vnode 描述一个 DOM 结构
+42. 监听 data 变化的核心 API 是什么，以及深度监听、监听数组，有何缺点
+43. Vue 如何监听数组变化
+44. diff 算法的时间的复杂度
+45. 简述 diff 算法过程
+
 ## Webpack
+
+1. 前端代码为何要进行构建和打包
+2. module chunk bundle 分别什么意思，有何区别
+3. loader 和 plugin 的区别
+4. webpack 如何实现懒加载
+5. webpack 常见性能优化
+6. babel-runtime 和 babel-polyfill 的区别
+7. webpack 的基本配置
+8. 为何 Proxy 不能被 polyfill
+9. babel 和 webpack 的区别
+10. loader 和 plugin 的区别
+11. webpack 进行性能优化
 
 ## HTTP
 

@@ -44,6 +44,6 @@
 
 - 为何 Proxy 不能被 polyfill
 
-  > Proxy 不能用 Object.defineProperty 或娶她东西进行模拟
+  > Proxy 不能用 Object.defineProperty 或其他东西进行模拟
 
-  - webpack 性能优化
+- webpack 性能优化
