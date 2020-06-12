@@ -71,6 +71,34 @@
 
 ## React
 
+1. React 组件如何通讯
+2. JSX 本质是什么
+3. context 是什么，有何用途
+4. 性能优化 - shouldComponentUpdate 的用途
+5. 描述 redux 单项数据流
+6. setState 是同步还是异步
+7. 描述组件的生命周期，包括父子组件
+8. Portals 的使用
+9. 函数式编程
+10. 受控组件与非受控组件
+11. 异步组件，何时使用
+12. React 的性能优化
+13. 组件公共逻辑抽离 - HOC、Render Props
+14. redux 单项数据流
+15. 描述 vdom 和 diff
+16. 合成事件
+17. setState 的原理 [batchUpdate]
+18. 组件的渲染过程
+19. 什么是纯函数
+20. React 发起 ajax 应该在哪个生命周期
+21. 渲染列表，为何使用 key
+22. 函数组件和 class 组件区别
+23. redux 如何进行异步请求
+24. react-router 如何配置懒加载
+25. PureComponent 有何区别
+26. React 事件 和 DOM 事件的区别
+27. React 和 Vue 区别
+
 ## Vue
 
 ## Webpack

@@ -71,7 +71,7 @@
 
 > redux-saga
 
--react-router 如何配置懒加载
+- react-router 如何配置懒加载
 
 ```javascript
 lazy(()=>import('component'))
@@ -80,7 +80,7 @@ lazy(()=>import('component'))
 
 - PureComponent 有何区别
 
-> 实现了前比较的 shouldComputedUpdate
+> 实现了浅比较的 shouldComputedUpdate
 > 性能优化
 > 要结合不可变值使用
 
@@ -109,4 +109,3 @@ lazy(()=>import('component'))
 > React 使用 JSX 拥抱 JS，Vue 使用模板拥抱 HTML
 > React 函数式编程，Vue 声明式编程
 > React 更多需要自力更新，Vue 把想要的都给你
-≤
