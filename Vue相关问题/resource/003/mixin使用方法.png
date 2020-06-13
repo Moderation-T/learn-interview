@@ -74,3 +74,4 @@ ulElemet = this.$refs.ul1; // 通过这个方法获取元素
 ![mixin使用方法](./resource/003/mixin使用方法.png)
 
 > 缺点：变量来源不明确，不方便阅读，容易造成命名冲突，mixin 和组件可能出现多对多的关系，复杂度高
+

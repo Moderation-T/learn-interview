@@ -21,8 +21,8 @@
 
 * 合成事件
 
-  > 所有时间挂载到 document 上
-  > event 不是原生的，是 SyntheticEvent 合成时间对象
+  > 所有事件挂载到 document 上
+  > event 不是原生的，是 SyntheticEvent 合成事件对象
   > 和 Vue 事件不同，和 DOM 事件不同
 
   ![合成事件](./resource/004/合成事件.png)
